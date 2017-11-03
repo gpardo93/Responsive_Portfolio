@@ -232,7 +232,7 @@ input[type=submit] {
 }
 
 
-@media screen and (max-width: 640) {
+@media screen and (max-width: 640px) {
   
   .sidebar {
     width: 70%;
